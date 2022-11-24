@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
  ### :man_technologist: About me
 
- I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Melbourne.
+- 🥇: I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Melbourne.
   
 - :telescope: I’m working as a Front End Developer contributing to the digital health payment space.
 
