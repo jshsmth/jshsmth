@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
   
 <div id="badges">
-  <a href="https://www.linkedin.com/in/joshua-smith-3810/">
+  <a href="https://www.linkedin.com/in/joshua-smith-3810/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/jshsmth8">
+  <a href="https://twitter.com/jshsmth8" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
