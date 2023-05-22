@@ -29,14 +29,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=jshsmth&style=flat-square&color=blue" alt="counter"/>
   
   ## Hey there! 👋
-
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
-</div>
-
----
 
  ### :man_technologist: About me
 
@@ -69,7 +63,5 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jshsmth&theme=dark)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshsmth)](https://github.com/anuraghazra/github-readme-stats)
 
 
