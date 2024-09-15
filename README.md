@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
 - :telescope: I’m working as a Front End Developer contributing to the digital health payment space.
 
-- :seedling: Exploring everything Javascript & Cryptocurrency related.
+- :seedling: Exploring everything Typescript
 
 - :zap: In my free time, I do things.
 
