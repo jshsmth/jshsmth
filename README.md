@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
 - :telescope: I’m working as a Front End Developer contributing to the digital health payment space.
 
-- :seedling: Exploring everything Javascript.
+- :seedling: Exploring everything Javascript & Cryptocurrency related.
 
 - :zap: In my free time, I do things.
 
@@ -52,7 +52,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
 </div>
 
 ---
