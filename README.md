@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
   
-<div id="badges">
-  <a href="https://www.linkedin.com/in/jshsmth/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/jshsmth/" target="_blank" rel="noreferrer noopener">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  
   <img src="https://komarev.com/ghpvc/?username=jshsmth&style=flat-square&color=blue" alt="counter"/>
   
-## Hey there! 👋
-
 </div>
+
+## Hey there! 👋
 
 ### :man_technologist: About me
 
