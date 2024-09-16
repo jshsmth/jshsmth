@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
  ### :man_technologist: About me
 
-- 🥇: I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Melbourne.
+- 🥇 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Melbourne.
   
 - :telescope: I’m working as a Front End Developer contributing to the digital health payment space.
 
-- :seedling: Exploring everything Typescript
+- :seedling: I love exploring everything Typescript.
 
 - :zap: In my free time, I do things.
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidity" width="40" height="40"/>
 </div>
 
 ---
