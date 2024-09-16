@@ -1,5 +1,4 @@
 
-
 <!--
 **jshsmth/jshsmth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,17 +18,17 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
   
 <div id="badges">
-  <a href="https://www.linkedin.com/in/joshua-smith-3810/" target="_blank">
+  <a href="https://www.linkedin.com/in/jshsmth/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=jshsmth&style=flat-square&color=blue" alt="counter"/>
   
-  ## Hey there! 👋
+## Hey there! 👋
+
 </div>
 
-
- ### :man_technologist: About me
+### :man_technologist: About me
 
 - 🥇 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Melbourne.
   
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -57,8 +56,6 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jshsmth&theme=dark)](https://git.io/streak-stats)
-
-
