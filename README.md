@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
 - :telescope: I’m working as a Front End Developer contributing to the digital health payment space.
 
-- :seedling: I love exploring everything Typescript.
+- :seedling: I love exploring everything Typescript & Web3.
 
 - :zap: In my free time, I do things.
 
