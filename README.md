@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ## Hey there! 👋
 
-I'm a Software Developer based in Melbourne. I'm passionate about Web3 because I believe in a future where individuals have control over their data. In a world where governments and corporations frequently compromise user privacy through data breaches, surveillance, and unauthorized data sharing, blockchain technology offers a path to true data sovereignty and security. I'm committed to improving the user experience of Web3 applications, making them more intuitive and accessible to everyone, so that the benefits of decentralization can be understood and utilized by the average person.
+I'm a Frontend Developer based in Melbourne with a strong focus on building intuitive, user-friendly web applications. I’m passionate about creating seamless digital experiences that are accessible to everyone, whether in traditional Web2 environments or emerging Web3 ecosystems. While I’m particularly interested in the potential of decentralized technologies to give individuals more control over their data, I’m equally driven to enhance usability, performance, and design across all types of web platforms. My goal is to bridge the gap between complex systems and everyday users through thoughtful, effective frontend development.
+
+
 
 ### 🛠️ Tech Stack
 
