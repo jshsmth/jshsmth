@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hey there! 👋
 
-I'm a Frontend Developer based in Melbourne who loves building clean, user-friendly web apps. My main focus is creating smooth, accessible digital experiences whether it's in the Web2 world or the growing Web3 space. While frontend is my bread and butter, I also know my way around the backend, especially when working with Next.js. I can handle things like API routes and server-side logic when needed, which helps me build more complete, seamless applications. I'm really into the idea of giving people more control over their data through decentralized tech, but at the end of the day, I'm all about making the web better, faster, and easier to use for everyone.
+I'm a Software Engineer based in Melbourne who loves building clean, user-friendly web apps. My main focus is creating smooth, accessible digital experiences whether it's in the Web2 world or the growing Web3 space. While frontend is my bread and butter, I also know my way around the backend, especially when working with Next.js. I can handle things like API routes and server-side logic when needed, which helps me build more complete, seamless applications. I'm really into the idea of giving people more control over their data through decentralized tech, but at the end of the day, I'm all about making the web better, faster, and easier to use for everyone.
 
 
 
